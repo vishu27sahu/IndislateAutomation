@@ -23,7 +23,7 @@ System.setProperty("webdriver.chrome.driver","D:\\driver\\msedgedriver.exe");
 		 finish=System.currentTimeMillis();
 		 total_time =finish - start;
 		System.out.println(total_time);
-		System.out.println();
+	
 		
 		
 	}
