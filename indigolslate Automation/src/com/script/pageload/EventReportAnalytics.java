@@ -15,6 +15,7 @@ public class EventReportAnalytics {
 		finish=System.currentTimeMillis();
 		totaltime=finish-start;
 		System.out.println("Total page load time of Event Report Analytics URL ="  +totaltime );
+		System.out.println();
 	}
 
 }

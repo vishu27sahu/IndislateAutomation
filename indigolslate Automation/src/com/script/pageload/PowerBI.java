@@ -15,7 +15,7 @@ public class PowerBI {
 	finish=System.currentTimeMillis();
 	totaltime=finish-start;
 	System.out.println("Total page load time of powerbi ="  +totaltime );
-	
+	System.out.println();
 	}
 
 }
